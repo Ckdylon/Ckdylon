@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou o Caike Dylon! 👋
 
-<!--
-**Ckdylon/Ckdylon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Todo mundo deveria aprender a programar, porque isso ensina a pensar." - Steve Jobs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🎓 **Estudante de Engenharia de Computação** na Universidade Estadual de Feira de Santana (UEFS).
+- 💻 **Foco Atual:** Desenvolvimento de Software, Inteligência Artificial e Algoritmos de Alta Performance.
+- 💡 Apaixonado por desmistificar tecnologias complexas, otimização de código e arquitetura de sistemas.
+- 🛠️ Combinando o rigor acadêmico da engenharia com a agilidade prática exigida pelo mercado tech.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Emblemas (Badges) |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Ferramentas & Dev** | ![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ckdylon&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub de Caike" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150" />
+</p>
+
+---
+
+### 🤝 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caikedylon)
