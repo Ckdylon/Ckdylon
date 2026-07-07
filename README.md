@@ -24,8 +24,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ckdylon&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub de Caike" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Ckdylon&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub de Caike" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150" />
 </p>
 
 ---
