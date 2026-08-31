@@ -1,10 +1,10 @@
-# Olá, eu sou o Caike Dylon! 👋
+# Olá, eu sou o Caike Dylon!
 
 "Todo mundo deveria aprender a programar, porque isso ensina a pensar." - Steve Jobs
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 - 🎓 **Estudante de Engenharia de Computação** na Universidade Estadual de Feira de Santana (UEFS).
 - 💻 **Foco Atual:** Desenvolvimento de Software, Inteligência Artificial e Algoritmos de Alta Performance.
 - 💡 Apaixonado por desmistificar tecnologias complexas, otimização de código e arquitetura de sistemas.
