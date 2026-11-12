@@ -25,8 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ckdylon&theme=radical" alt="Sequência de Contribuições" />
-  <br/><br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
