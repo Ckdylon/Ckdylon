@@ -23,10 +23,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ckdylon&theme=radical" alt="Sequência de Contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</p>
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Ckdylon&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckdylon&layout=compact&theme=radical)
 
 ---
 
