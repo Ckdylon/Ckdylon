@@ -19,17 +19,6 @@
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
 | **Ferramentas & Dev** | ![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
----
-
-### 📊 Estatísticas e Foco
-
-| Estatística / Métrica | Status / Detalhe |
-| :--- | :--- |
-| **Total de Contribuições** | ![Contributions](https://img.shields.io/badge/122%2B_Commits-00ADD8?style=for-the-badge&logo=github&logoColor=white) |
-| **Linguagem Principal** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| **Universidade** | ![UEFS](https://img.shields.io/badge/UEFS-Engenharia_de_Computação-ED8B00?style=for-the-badge&logo=andela&logoColor=white) |
-
----
 
 ### 🤝 Conecte-se Comigo
 
